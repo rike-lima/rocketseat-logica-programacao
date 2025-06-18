@@ -28,11 +28,11 @@ Cada pasta contém exercícios, exemplos e anotações relacionadas a cada tópi
 O curso é oferecido pela Rocketseat e tem como objetivo introduzir os conceitos essenciais de lógica de programação para iniciantes que desejam começar no mundo da tecnologia e desenvolvimento de software.
 
 ##🧠 Objetivo pessoal
- - Praticar a base da lógica de forma sólida
+- Praticar a base da lógica de forma sólida
 
- - Escrever códigos limpos e bem organizados
+- Escrever códigos limpos e bem organizados
 
- - Resolver problemas com pensamento estruturado
+- Resolver problemas com pensamento estruturado
 
- - Preparar terreno para estudos mais avançados
+- Preparar terreno para estudos mais avançados
 
